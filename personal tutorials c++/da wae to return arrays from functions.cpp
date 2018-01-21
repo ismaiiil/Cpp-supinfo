@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <time.h>
 using namespace std;
-
+//test
 
 int main() {
 	srand(time(NULL));
