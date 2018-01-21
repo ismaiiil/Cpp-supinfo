@@ -142,7 +142,13 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="personal tutorials c++.cpp" />
+    <ClCompile Include="da wae to return arrays from functions.cpp" />
+    <ClCompile Include="passing arrays to functions.cpp" />
+    <ClCompile Include="random using time.cpp" />
+    <ClCompile Include="da wae of arrays.cpp" />
+    <ClCompile Include="finding da wae of arrays unsing pointers.cpp" />
+    <ClCompile Include="value change using reference.cpp" />
+    <ClCompile Include="function declaration and definition.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
